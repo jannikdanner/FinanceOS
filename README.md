@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-0.1-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/license-private-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" />
   <img src="https://img.shields.io/badge/node-%3E%3D18-blue?style=flat-square" />
 </p>
 
@@ -334,7 +334,7 @@ Type commands in the bottom command bar:
 
 ## License
 
-This is a private repository. All rights reserved.
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
